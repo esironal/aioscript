@@ -1,0 +1,20 @@
+.result,.okButton{
+	margin-top: 15px;
+}
+#jsWrap,#cssWrap{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.cssField,.jsField{
+	margin-top: 5px;
+}
+.navbar-inverse{
+	margin-bottom: 0 !important;
+	border-radius: 0 !important;
+	background: #3399CC  !important;
+	border-color: #3399CC;
+	color: white !important;
+}
+.navbar-inverse .navbar-nav>li>a , .navbar-brand {
+ color: white !important;
+}
